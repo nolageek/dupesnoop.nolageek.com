@@ -39,16 +39,16 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Find Duplicates Fast
-    description                           : DupeSnoop uses a simple algorythm to find and display duplicates.
+    description                           : DupeSnoop uses a simple algorithm to find and display duplicates. No AI.
     fontawesome_icon_name                 : magic
     
   - title                                 : Hide False Positives
-    description                           : If you want to keep both album and unplugged versions of Nirvana's All Appologies, that's ok!
-    fontawesome_icon_name                 : mobile
+    description                           : If you want to keep both the album and unplugged versions of Nirvana's All Apologies, that's ok!
+    fontawesome_icon_name                 : person-falling-burst
 
   - title                                 : More Than Just Duplicates
-    description                           : Sick all the 'clean' versions in your library? DupeSnoop can help you find the explicit versions.
-    fontawesome_icon_name                 : play-circle
+    description                           : Sick of all the 'clean' versions in your library? DupeSnoop can help you find the explicit versions. Fuck yeah!
+    fontawesome_icon_name                 : e
 
   - title                                 : #Automatic Icon and Metadata
     description                           : #Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
