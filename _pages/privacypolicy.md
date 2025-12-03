@@ -80,12 +80,6 @@ To remove all app data:
 
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
 
-## Contact Us
-
-If you have any questions about this Privacy Policy or the App's privacy practices, please contact us at:
-
-**Email**: nolageek@gmail.com
-
 ## Apple Music and Trademarks
 
 Apple Music is a trademark of Apple Inc. Dupe Snoop is not affiliated with, endorsed by, or sponsored by Apple Inc.
