@@ -1,0 +1,18 @@
+{
+    "sourceFile": "_pages/changelog.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1764873998764,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1764873998764,
+            "name": "Commit-0",
+            "content": "---\nlayout: page\ntitle: What's New\ninclude_in_header: true\n---\n\n# Changelog\n## Version 2025.12.4\n\n### Changes\n- Added first In-App Purchase (.99 Tip option)\n- Add dummy contact information\n- Split confusing theme system into Appearance settings. Theme, and Mode.\n- Added Unfavorite All, and Queue All to Duplicate group header row.\n- Tweaked UI\n\n### Bug Fixes\n- Fixed status toggles in CatalogSearchView\n\n\n## Version 2025.11.29\n- First private TestFlight release"
+        }
+    ]
+}
