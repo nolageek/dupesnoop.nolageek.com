@@ -4,7 +4,7 @@ title: What's New
 include_in_header: true
 ---
 
-## Version 2025.12.19
+## Version 2025.12.23
 
 ### Changes
 - About page: Redesigned Contact section with NavigationLink-style rows
