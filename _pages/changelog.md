@@ -1,9 +1,3 @@
----
-layout: page
-title: What's New
-include_in_header: true
----
-
 ## Version 2025.12.23
 
 ### Changes
@@ -41,8 +35,6 @@ include_in_header: true
 
 ### Changes
 - Added first In-App Purchase (.99 Tip option)
-- Add dummy contact information
-- Split confusing theme system into Appearance settings. Theme, and Mode.
 - Added Unfavorite All, and Queue All to Duplicate group header row.
 - Tweaked UI
 
