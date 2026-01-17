@@ -1,5 +1,13 @@
-## Version 2025.12.23
+## Version 2026.01.17
+### Bug Fixes
+- Fixed bug with Onboarding Tutorial showing code instead of star. (5525)
+- Fixed bug when using popovers to show messages in Queue. Switched to using alerts. (5525)
+- Also switched to using alerts instead of popovers elsewhere, for consistancy. (5525)
+- Added option to create empty playlist when tapping Open Queue when one didn't exist. (5525)
 
+----
+
+## Version 2025.12.23
 ### Changes
 - About page: Redesigned Contact section with NavigationLink-style rows
 - About page: Added "Send Feedback" with in-app email composer
@@ -10,15 +18,10 @@
 
 ### Bug Fixes
 - Premium themes now properly require subscription to select
-- Fixed bug with Onboarding Tutorial showing code instead of star. (5525)
-- Fixed bug when using popovers to show messages in Queue. Switched to using alerts. (5525)
-- Also switched to using alerts instead of popovers elsewhere, for consistancy. (5525)
-- Added option to create empty playlist when tapping Open Queue when one didn't exist. (5525)
 
 ---
 
 ## Version 2025.12.11
-
 ### Changes
 - Alternate app icons (for Special Deluxe Edition)
 - Alternate logo images
@@ -28,15 +31,15 @@
 - Settings page: Moved Manage Hidden Groups to main settings page
 - DupeSnoop theme use dark mode regardless of system setting
 
-	
 ### Bug Fixes
 - Replaced "Below" with "Above" in Onboarding Tutorial
 - Fixed some issues with gradients on splash screen
 - Fixed header formatting on CatalogSearchView
 - Tweaked spacing between Filter and Sort pickers
 
-## Version 2025.12.5
+----
 
+## Version 2025.12.5
 ### Changes
 - Added first In-App Purchase (.99 Tip option)
 - Added Unfavorite All, and Queue All to Duplicate group header row.
