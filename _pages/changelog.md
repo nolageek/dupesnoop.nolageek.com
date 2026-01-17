@@ -10,6 +10,10 @@
 
 ### Bug Fixes
 - Premium themes now properly require subscription to select
+- Fixed bug with Onboarding Tutorial showing code instead of star. (5525)
+- Fixed bug when using popovers to show messages in Queue. Switched to using alerts. (5525)
+- Also switched to using alerts instead of popovers elsewhere, for consistancy. (5525)
+- Added option to create empty playlist when tapping Open Queue when one didn't exist. (5525)
 
 ---
 
