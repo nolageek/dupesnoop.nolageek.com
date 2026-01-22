@@ -13,7 +13,7 @@ presskit_download_link                    : #https://nolageek.com               
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free (In-App Purchases)                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : All Your Dupes Are Belong To Us
+app_description                           : DupeSnoop searches your Apple Music library and provides and easy to use UI to let your remove the versions you don't want, but and find versions you want instead. All Your Dupes Are Belong To Us
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -32,7 +32,7 @@ twitter_username                          :
 github_username                           : nolageek
 youtube_username                          :
 mastodon_link                             : 
-bluesky_username                          :   nolageek.bsky.social                                        # Enter your Bluesky handle (e.g. username.bsky.social)
+bluesky_username                          : nolageek.bsky.social                                        # Enter your Bluesky handle (e.g. username.bsky.social)
 
 
 
