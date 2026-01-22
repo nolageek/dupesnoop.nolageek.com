@@ -1,3 +1,8 @@
+---
+layout: page
+title: What's New
+include_in_header: true
+---
 ## Version 2026.01.17
 ### Bug Fixes
 - Fixed bug with Onboarding Tutorial showing code instead of star. (5525)
