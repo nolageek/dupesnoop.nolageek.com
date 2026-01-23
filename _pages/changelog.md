@@ -3,6 +3,18 @@ layout: page
 title: What's New
 include_in_header: true
 ---
+
+## Version 2026.01.24
+### Changes
+- Added tags under songs in library to make it easier to see if Deluxe, Soundtrack, Compilation, etc..
+- Added iCloud storage for Hidden Group storage, to avoid losing your hidden group data.
+
+### Bug Fixes
+- Fixed bug where the 0.99 subscription for 1 month wasn't showing.
+- Fixed bug where Full Title wasn't showing when long pressing a song in the library.
+
+----
+
 ## Version 2026.01.17
 ### Bug Fixes
 - Fixed bug with Onboarding Tutorial showing code instead of star. (5525)
