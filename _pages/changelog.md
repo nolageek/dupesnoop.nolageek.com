@@ -3,14 +3,13 @@ layout: page
 title: What's New
 include_in_header: true
 ---
-
 ## Version 2026.02.11
 ### Changes
 - Added "Reprise" tag to song listing, if the song contains (reprise).
 - Added new Topbar Menu to Library view, and added new option to Catalog Search view:  Added option to expand full song/track information to make it easy to find unwanted versions.
-- Added "Date" tag to song listings when expanded. Note that this uses Apple's metadata for album release dates and when it comes to Re-Releases and Anniversary Editions it is NOT reliable. I am working on a solution for showing proper release dates as well as a means to find the "original" versions of songs.
-- Using ISRC to track litteral Exact duplicates of songs that are included in multiple releaes in a shady attempt to get you to re-save them to your library. (Looking at you, "ABCDEFU" with your 10+ identical versions on multiple "my setlist from that show where I opened for someone" album titles. Love the song, but FU2.) 
-  - An ISRC (International Standard Recording Code) is a unique, 12-character digital fingerprint for a specific sound or music video recording, used globally to track its usage, sales, and streams, ensuring correct royalty collection for artists, labels, and publishers across digital platforms and physical releases. Each ISRC identifies a particular recording, not the underlying composition, meaning remixes, covers, or different versions of a song each get a unique code.
+- Added "Date" tag to song listing when expanded. Note that this uses Apple's metadata for album release dates and when it comes to Re-Releases and Anniversary Editions it is NOT reliable. I am working on a solution for showing proper release dates as well as a means to find the "original" versions of songs.
+- Using ISRC (International Standard Recording Code) to track literal Exact duplicates of songs that are included in multiple releaes in a shady attempt to get you to re-save them to your library. (Looking at you, "ABCDEFU" with your 10+ identical versions on multiple "my setlist from that show where I opened for someone" album releases. Love the song, but FU2.) 
+	- ISRC (International Standard Recording Code) is a unique, 12-character digital fingerprint for a specific sound or music video recording, used globally to track its usage, sales, and streams, ensuring correct royalty collection for artists, labels, and publishers across digital platforms and physical releases. Each ISRC identifies a particular recording, not the underlying composition, meaning remixes, covers, or different versions of a song each get a unique code.
 
 ### Bug Fixes
 - A few small bugs squashed.
