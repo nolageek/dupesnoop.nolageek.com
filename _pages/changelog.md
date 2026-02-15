@@ -10,12 +10,14 @@ include_in_header: true
 - Added "Date" tag to song listing when expanded. Note that this uses Apple's metadata for album release dates and when it comes to Re-Releases and Anniversary Editions it is NOT reliable. I am working on a solution for showing proper release dates as well as a means to find the "original" versions of songs.
 - Added "Exact" tag to song listings that exactly match other songs in both the Library view and Catalog Search View.  If a song has multiple versions that have exact matches the tags will show up in different colors for different matches. Read on for more information on how I'm doing this.
 - Using ISRC to track literal Exact duplicates of songs that are included in multiple releaes in a shady attempt to get you to re-save them to your library. (Looking at you, "ABCDEFU" with your 10+ identical versions on multiple "my setlist from that show where I opened for someone" album releases. Love the song, but FU2.) 
+- Dramatically improved performance when scrolling in library tab.
 
 #### WTF is ISRC?
 - **ISRC (International Standard Recording Code)** is a unique, 12-character digital fingerprint for a specific sound or music video recording, used globally to track its usage, sales, and streams, ensuring correct royalty collection for artists, labels, and publishers across digital platforms and physical releases. Each ISRC identifies a particular recording, not the underlying composition, meaning remixes, covers, or different versions of a song each get a unique code.
 
 ### Bug Fixes
 - A few small bugs squashed.
+- Fixed display of loading screens showing navigation bar too early.
 
 ----
 
