@@ -3,21 +3,24 @@ layout: page
 title: What's New
 include_in_header: true
 ---
-## Version 2026.02.11
+## Version 2026.02.16
 ### Changes
-- Added "Reprise" tag to song listing, if the song contains (reprise).
-- Added new Topbar Menu to Library view, and added new option to Catalog Search view:  Added option to expand full song/track information to make it easy to find unwanted versions.
-- Added "Date" tag to song listing when expanded. Note that this uses Apple's metadata for album release dates and when it comes to Re-Releases and Anniversary Editions it is NOT reliable. I am working on a solution for showing proper release dates as well as a means to find the "original" versions of songs.
-- Added "Exact" tag to song listings that exactly match other songs in both the Library view and Catalog Search View.  If a song has multiple versions that have exact matches the tags will show up in different colors for different matches. Read on for more information on how I'm doing this.
-- Using ISRC to track literal Exact duplicates of songs that are included in multiple releaes in a shady attempt to get you to re-save them to your library. (Looking at you, "ABCDEFU" with your 10+ identical versions on multiple "my setlist from that show where I opened for someone" album releases. Love the song, but FU2.) 
-- Dramatically improved performance when scrolling in library tab.
-
-#### WTF is ISRC?
+- Added "Reprise" tag to songs that contain a reprise version.
+- Added a new top menu bar to the Library view and a new option to the Catalog Search view for expanding full song/track information, making it easier to identify unwanted versions.
+- Added "Date" tag to expanded song listings. Note that this uses Apple's metadata for album release dates, which is unreliable for re-releases and anniversary editions. I'm working on a solution to display proper release dates and identify original versions of songs.
+- Added "Exact" tag to song listings that match other songs identically in both Library and Catalog Search views. When a song has multiple versions with exact matches, the tags display in different colors to distinguish between them.
+- Dramatically improved performance when scrolling through the Library tab.
+- Groups with tracks already in the DupeSnoop playlist are hidden by default. You can show them using the option in the Library tab's top menu.
+- Implemented ISRC tracking to detect literal duplicates of songs included across multiple releases in what appears to be an attempt to get you to re-save them. (I'm looking at you, "ABCDEFU" with your 10+ identical versions across multiple "My Setlist from That Show Where I Opened for Someone" album releases. Great song, but seriously?)
+#### What is ISRC?
 - **ISRC (International Standard Recording Code)** is a unique, 12-character digital fingerprint for a specific sound or music video recording, used globally to track its usage, sales, and streams, ensuring correct royalty collection for artists, labels, and publishers across digital platforms and physical releases. Each ISRC identifies a particular recording, not the underlying composition, meaning remixes, covers, or different versions of a song each get a unique code.
+
+----
 
 ### Bug Fixes
 - A few small bugs squashed.
-- Fixed display of loading screens showing navigation bar too early.
+- Loading screens no longer show the navigation bar too early.
+- Pull-To-Refresh now properly udpates DupeSnoop playlist membership.
 
 ----
 
