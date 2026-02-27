@@ -3,6 +3,23 @@ layout: page
 title: What's New
 include_in_header: true
 ---
+## Version 2026.02.28
+### Changes
+- Added an alert when you reach the 50-track maximum in the queue. This prevents stalling situations that could cause issues. I'll likely make this a user-configurable option (100?).
+- Added new track tags to the song row view: Remix, Demo, Musical.
+- Changed the release year tag to always display.
+- Made all metadata tags from Apple white on dark grey to differentiate them from programmatically created tags. This is also the start of a system to calculate accurate release dates.
+-  Updated the display of the Favorite, Search, and Queue buttons in the Song Detail view.
+- Reworked the Onboarding tutorial to avoid confusion.
+
+----
+
+### Bug Fixes
+- Fixed issue with how "Edition" tags are determined.
+- Other visual and performance tweaks.
+
+----
+
 ## Version 2026.02.16
 ### Changes
 - Added "Reprise" tag to songs that contain a reprise version.
